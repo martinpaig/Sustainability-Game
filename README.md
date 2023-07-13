@@ -1,5 +1,8 @@
 # Sustainability-Game
-Computer Graphics course - sustainability game
+Computer Graphics course - Rising Tides
+
+Informative children's game about rising sea levels. Use WASD keys to collect litter pieces before the sea level rises too high.
+When collect a certain number of pieces of litter, sea level will increase at a slower pace, or take a jump downwards.
 
 Scope: 3 weeks
 
